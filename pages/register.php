@@ -1,6 +1,6 @@
 <?php
 
 $template = "register";
-require "layout.phtml";
+require "templates/layout.phtml";
 
 ?>

@@ -1,6 +1,6 @@
 <?php
 
 $template = "homepage";
-require "layout.phtml";
+require "templates/layout.phtml";
 
 ?>
